@@ -10,6 +10,6 @@ How to install #
     
 
 Reference 
-https://github.com/DeveloperLibs/flutter_image_ppicker.git
-https://pub.dev/packages/image_cropper
+https://github.com/DeveloperLibs/flutter_image_ppicker.git \n
+https://pub.dev/packages/image_cropper \n
 https://pub.dev/packages/image_picker
